@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\laststringx\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1622712848.index
+3925701009.index
+948239461.index
+2830044003.index
+2343663694.index
+2579840347.index
